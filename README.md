@@ -1,2 +1,2 @@
 # assignments
-Module 2 assignments
+Coursera assignments
